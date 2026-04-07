@@ -25,3 +25,8 @@ body {
 .cell:hover {
     background: #ddd;
 }
+
+button {
+    margin-top: 20p;
+    padding: 10px 20px;
+}
